@@ -5,45 +5,25 @@ If you want to run around Elden Ring shooting 100 spells per second and flying a
 
                                             Features Include:
 *ItemGib/GigaGib add all/specific Items
-
 *StatMultiplier
-
 *WorldFlags
-
 *Character Data
-
 *UnlockAllGestures
-
 *Scripts
- 
 *ParamPatcher
-
 *Edit Weapons
-
 *Edit Armor
-
 *Edit Attacks/Bullets
-
 *Edit Effects
-
 *Edit NPCs and Spirit Summons (Summon Bosses as Summons)
-
 *Make your own Magic
-
 *NPC Manager
-
 *Display Target´s Status
-
 *Teleport
-
 *NoClip
-
 *FreeCam
-
 *Force TP
-
 *Edit your own Stats and LVL
-
 
 We’ve also compiled several ID lists which are a necessary resource for scripts like ItemGib or for the more fun and creative cheats. If you would like to help us add more features and accelerate the reverse-engineering process be sure to join our Discord server.
 
