@@ -9,7 +9,7 @@ If you want to run around Elden Ring shooting 100 spells per second and flying a
 *WorldFlags
 *Character Data
 *UnlockAllGestures
-*Scripts
+*Scripts 
 *ParamPatcher
 *Edit Weapons 
 *Edit Armor
